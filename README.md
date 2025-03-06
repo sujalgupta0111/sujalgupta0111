@@ -18,10 +18,15 @@
 ## 💼 Projects
 ### 🪁 Flyme
 🔹 **Repo Link**: [Flyme](https://github.com/sujalgupta0111/flyme)
-🔹 **Tech Stack**: [Provide tech stack]  
-🔹 [Provide a brief description of your Flyme project]  
-🔹 [Highlight key features or functionalities of the project]  �
+🔹 **Tech Stack**: [Java Core and swing]  
+🔹 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sujalgupta0111/sujalgupta0111/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sujalgupta0111/sujalgupta0111/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 
 ![snake gif](https://github.com/sujalgupta0111/sujalgupta0111/blob/output/github-contribution-grid-snake.gif)
