@@ -1,6 +1,6 @@
 # Hello World!, I'm Sujal Gupta 👋🏼
 
-💻 Aspiring Java Developer | 🚀 Spring Boot Enthusiast | 🎯 Problem Solver
+💻 Aspiring Java Developer | 🚀 Spring Boot Enthusiast | 🎯 Problem Solver|🎯 Attention to detail 
 
 📧 Email: sujalgupta200101@gmail.com
 
@@ -24,14 +24,20 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Spring Tool Suite](https://img.shields.io/badge/spring%20tool%20suite-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 💼 Projects
+
+
+### 🪁Books Manager using REstful Api
+🔹 **Repo Link**: [Book](https://github.com/sujalgupta0111/BookBYAPI)  
+🔹 **Tech Stack**: Java, Spring Boot, HTML, Thymeleaf, RESTful API communication, Spring MVC.<br>
+🔹 **Description**:An admin module that manages books. All requests are handled by APIs, with the frontend developed using Thymeleaf and the backend built with Java. This is a combined module developed using Spring MVC. :-[BookMVC](https://github.com/sujalgupta0111/Book_Spring_MVC)
+
 ### 🪁 Shopkart
 🔹 **Repo Link**: [Shop kart](https://github.com/sujalgupta0111/Shopkart)  
 🔹 **Tech Stack**: Java ,Spring Boot ,HTML, Thymeleaf <br>
 🔹 **Description**: E-Com project that rivals Amzaon 
-### 🪁 Flyme
-🔹 **Repo Link**: [Flyme](https://github.com/sujalgupta0111/flyme)  
-🔹 **Tech Stack**: Java Core and Swing  
-🔹 **Description**: A Clone of legendary game fallpy bird.
+
+
+
 
 
 
