@@ -25,7 +25,7 @@
 
 ## 💼 Projects
 ### 🪁 Shopkart
-🔹 **Repo Link**: [Flyme](https://github.com/sujalgupta0111/Shopkart)  
+🔹 **Repo Link**: [Shop kart](https://github.com/sujalgupta0111/Shopkart)  
 🔹 **Tech Stack**: Java ,Spring Boot ,HTML, Thymeleaf <br>
 🔹 **Description**: E-Com project that rivals Amzaon 
 ### 🪁 Flyme
