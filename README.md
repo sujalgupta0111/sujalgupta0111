@@ -24,10 +24,14 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Eclipse](https://img.shields.io/badge/eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Spring Tool Suite](https://img.shields.io/badge/spring%20tool%20suite-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## 💼 Projects
+### 🪁 Shopkart
+🔹 **Repo Link**: [Flyme](https://github.com/sujalgupta0111/Shopkart)  
+🔹 **Tech Stack**: Java ,Spring Boot ,HTML, Thymeleaf
+🔹 **Description**: E-Com project that rivals Amzaon .
 ### 🪁 Flyme
 🔹 **Repo Link**: [Flyme](https://github.com/sujalgupta0111/flyme)  
 🔹 **Tech Stack**: Java Core and Swing  
-🔹 **Description**: A brief description of the project, its purpose, and challenges faced.
+🔹 **Description**: A Clone of legendary game fallpy bird.
 
 
 
