@@ -2,7 +2,7 @@
 
 💻 Aspiring Java Developer | 🚀 Spring Boot Enthusiast | 🎯 Problem Solver|🎯 Attention to detail 
 
-📧 Email: sujalgupta200101@gmail.com   &nbsp;&nbsp;
+📧 Email: sujalguptadev@gmail.com   &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="35" height="35"> : <a href="https://leetcode.com/u/sujalgupta0111/"> LeetCode </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30" height="30"> : <a href="https://www.linkedin.com/in/contact-sujal-gupta/"> Sujal Gupta </a>
 
